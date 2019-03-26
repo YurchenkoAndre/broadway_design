@@ -14,6 +14,7 @@ h1{
     font-family: Helvetica;
     font-size: 18px;
     color: white;
+    text-decoration: none;
 }
 h2 {
     font-family: Helvetica;
@@ -42,4 +43,7 @@ p {
     color:wheat;
     background-color: dimgray;
     text-align: left;
+}
+a:visited {
+    color: white;
 }
